@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBroadcastingSystem", "MessageBroadcastingSystem\MessageBroadcastingSystem.csproj", "{45021009-5308-44CD-980D-C6B21A3C7B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45021009-5308-44CD-980D-C6B21A3C7B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45021009-5308-44CD-980D-C6B21A3C7B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45021009-5308-44CD-980D-C6B21A3C7B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45021009-5308-44CD-980D-C6B21A3C7B47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04FD5F37-D859-400C-8104-309A9EA1B5F5}
+	EndGlobalSection
+EndGlobal
